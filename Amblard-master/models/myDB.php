@@ -1,5 +1,5 @@
 <?php
-class MyDB {
+class myDB {
 	// Classe de connexion à une base de données
 
 	static private $pdo = null; // Le singleton pour ouvrir qu'une seul connexion
