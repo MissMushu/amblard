@@ -41,7 +41,7 @@
 <ul id="FormationsBijouterie" class="dropdown-content">
 	<li><a href="#!">Candidature Bijouterie</a></li>
 	<li>
-		<ul id="sousmenu">
+		<ul id="sousmenu" >
 			<li><a href="#!">Candidature Bijouterie</a></li>
 			<li><a href="#!">DMA Art du Bijou et du Joyau</a></li>
 			<li><a href="#!">Cap Bijouterie-Joaillerie</a></li>

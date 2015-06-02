@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  localhost
--- Généré le :  Lun 01 Juin 2015 à 11:49
+-- Généré le :  Mar 02 Juin 2015 à 16:00
 -- Version du serveur :  5.6.20-log
 -- Version de PHP :  5.4.31
 
@@ -42,7 +42,9 @@ CREATE TABLE IF NOT EXISTS `administrateur` (
 `id_admin` int(11) NOT NULL,
   `login_admin` varchar(15) DEFAULT NULL,
   `password_admin` varchar(15) DEFAULT NULL,
-  `id_droit` int(11) DEFAULT NULL
+  `id_droit` int(11) DEFAULT NULL,
+  `nom_administrateur` varchar(30) DEFAULT NULL,
+  `prenom_redacteur` varchar(30) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
