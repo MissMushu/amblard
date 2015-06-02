@@ -4,9 +4,9 @@
 
 <meta http-equiv="Content-Type" content="application/xhtml+xml"
 	charset="UTF-8" />
-<script src="../../ckeditor/ckeditor.js"></script>
+<script src="<?php echo WEBROOT?>ckeditor/ckeditor.js"></script>
 <link type="text/css" rel="stylesheet"
-	href="../../materialize/css/materialize.min.css"
+	href="<?php echo WEBROOT?>materialize/css/materialize.min.css"
 	media="screen,projection" />
 
 
@@ -18,10 +18,10 @@
 	<script type="text/javascript"
 		src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script type="text/javascript"
-		src="../../materialize/js/materialize.min.js"></script>
+		src="<?php echo WEBROOT?>materialize/js/materialize.min.js"></script>
 	<div id="entete">
 		<div id="logo">
-			<img src="../../img/logo.png" class="logo" />
+			<img src="<?php echo WEBROOT?>img/logo.png" class="logo" />
 		</div>
 		<div>
 			<h1>Lycée Professionnel Amblard Des Méties D'Art
@@ -41,7 +41,7 @@
 	</ul>
 	<ul id="FormationsBijouterie" class="dropdown-content">
 		<li><a href="#!">Candidature Bijouterie</a></li>
-			<ol id="sousmenu"><a href="#!">Candidature Bijouterie</a></ol>
+			<ul id="sousmenu"><a href="#!">Candidature Bijouterie</a></ul>
 		<li><a href="#!">DMA Art du Bijou et du Joyau</a></li>
 		<li><a href="#!">Cap Bijouterie-Joaillerie</a></li>
 		<li><a href="#!">Les olympiades des métiers</a></li>
