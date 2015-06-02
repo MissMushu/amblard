@@ -41,13 +41,14 @@
 	</ul>
 	<ul id="FormationsBijouterie" class="dropdown-content">
 		<li><a href="#!">Candidature Bijouterie</a></li>
-			<ul id="sousmenu"><a href="#!">Candidature Bijouterie</a></ul>
+			<ul id="sousmenu"><a href="#!">Candidature Bijouterie</a>
 		<li><a href="#!">DMA Art du Bijou et du Joyau</a></li>
 		<li><a href="#!">Cap Bijouterie-Joaillerie</a></li>
 		<li><a href="#!">Les olympiades des métiers</a></li>
 		<li><a href="#!">Section européenne</a></li>
 		<li class="divider"></li>
 		<li><a href="#!">On en parle jusqu'en Asie</a></li>
+	</ul>
 	</ul>
 		<ul id="FormationsMenuiserie" class="dropdown-content">
 		<li><a href="#!">one</a></li>
