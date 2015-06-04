@@ -34,7 +34,7 @@
 				
 				
 				// echo "<pre>";
-				//print_r($_SERVER['REQUEST_URI']);
+				// print_r($_SERVER['REQUEST_URI']);
 				// var_dump($_GET);
 				// var_dump($params[0]);
 				// var_dump($params);
