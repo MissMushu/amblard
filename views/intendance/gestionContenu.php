@@ -25,7 +25,8 @@
 		</button>
 
 	</form>
-
+</div>
+<div class="row">
 
 	<form action="#" method="post" enctype="multipart/form-data" action="<?php echo WEBROOT?>intendance/upload_file">
 		<div class="file-field input-field">

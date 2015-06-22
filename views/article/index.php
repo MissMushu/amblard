@@ -5,6 +5,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div id="affichageArticles">
 
+
+<div id="corpsAfficheArticles">
+		  <?php ArticlesModel::afficheArticles();?>
+		
+</div>
+</div>
 </body>
 </html>

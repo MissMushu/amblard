@@ -1,5 +1,5 @@
 <?php
-class export{
+class Export{
 
 	static function exportData($datas,$filename){
 		header('Content-Type: text/csv;');
